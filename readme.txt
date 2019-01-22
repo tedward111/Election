@@ -1,4 +1,4 @@
-Note: This README was written for Georgetown election officials who do not have programming experience, so it goes through some basics.
+__Note: This README was written for Georgetown election officials who do not have programming experience, so it goes through some basics.__
 
 
 
