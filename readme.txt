@@ -1,6 +1,13 @@
 Note: This README was written for Georgetown election officials who do not have programming experience, so it goes through some basics.
 
+
+
+
 This application has been tested on macOS Sierra version 10.12.4.
+
+
+
+
 
 Once you have the “Election” folder on your desktop (or wherever you’d like to put it on your computer), open Terminal.
 
