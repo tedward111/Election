@@ -1,0 +1,235 @@
+Round 1:
+
+votesNeeded = 117.0
+numberVoters = 349.0
+Candidate                                Tally 
+
+Dalric Fields and Feinstein              0.000 
+sabrina Ciervo                           0.000 
+Rack 13                                  0.000 
+HotChick and ChickenMadness              0.000 
+Kamar Mack and Jessica Andino            114.000 
+John DeGioa                              0.000 
+Spongebob caveman                        0.000 
+Jack the Bulldog                         0.000 
+Bill Reber and Bill Cena                 0.000 
+Raven's dad(from the Bachelor)           0.000 
+Jeanne Bowers                            0.000 
+Joe Deccache                             0.000 
+Bharat Kaku                              0.000 
+Andrew Van Hoek and William Wrotniak     0.000 
+Olivia Torbert and Adam Potter           0.000 
+Anyone else and some other person        0.000 
+Hillary Clinton                          0.000 
+Garrett Williams                         0.000 
+Theo Symmonds                            0.000 
+Isaac Schley                             0.000 
+Lol                                      0.000 
+Gretchen McCarthy                        0.000 
+Hillary Clinton and Donald Trump         0.000 
+Chicken                                  0.000 
+Hot Chick Chicken Madness                0.000 
+Khristian Tate                           0.000 
+John Matthews and Nick Matz              91.000 
+Chicken madness                          0.000 
+K                                        0.000 
+Memes                                    0.000 
+Sahaj Sharda                             0.000 
+Andrew Cohen                             0.000 
+Andrew Johnson                           0.000 
+Garrett Williams and Halle Hagan         1.000 
+God                                      0.000 
+a                                        0.000 
+b                                        0.000 
+Suru                                     0.000 
+c                                        0.000 
+Joseph Gomez and Andrew Adams            0.000 
+Cosgrove                                 0.000 
+Tom Walker                               0.000 
+Andrew Adams and Joseph Gomez            0.000 
+Julia axtell                             0.000 
+Chicken Madness                          0.000 
+Write-In 3                               0.000 
+Write-In 2                               0.000 
+Rachid Telford                           0.000 
+Write-In 1                               0.000 
+Ethan  Knecht and Cayleigh Lewand        0.000 
+Mark Gori                                0.000 
+Nick Storozynski                         0.000 
+Matt Lettiero                            0.000 
+Erin bell                                0.000 
+Joshua Sirois and Corina Lobo            0.000 
+Chicken Madness and Hot Chick            0.000 
+The Flag Guys                            0.000 
+Griffin Edmonds and River Elms           0.000 
+Hot Chick                                0.000 
+Kanye                                    0.000 
+Hot chick and chicken madness            0.000 
+Finger-Blaster Guy on Harbin 3           0.000 
+Diane Sarna                              0.000 
+Joseph Daccache and Jalen Goldwire       0.000 
+HotChickChickenMadness                   0.000 
+Sarah Hirshorn and Julian                0.000 
+Noah Hawke                               0.000 
+Jarrod so I can return his Penny Board   0.000 
+Chris White                              0.000 
+Turkey Avocado Sprouts                   0.000 
+Federici                                 0.000 
+Alden Fletcher and Grady Willard         0.000 
+Hot Chick and Chicken Madness            0.000 
+Dat boi                                  0.000 
+Sim Allen                                0.000 
+Craig Peterson and Domino's              1.000 
+Ryan ackert and jack chicalo             0.000 
+Jenny Franke and Jack McGuire            3.000 
+Garret Williams and Halle Hagan          0.000 
+Burger Madness                           0.000 
+Kat                                      0.000 
+Joe Luther and Connor Rohan              0.000 
+Epi Quesadilla                           0.000 
+Ben Stern and Matt Jasko                 0.000 
+Will Davison and Aaron Rutter            1.000 
+Grant Draper                             0.000 
+@rackthirteen                            0.000 
+Mom and dad??                            0.000 
+Garet Williams and Habon Ali             138.000 
+Hillary Clinton and Tim Kaine            0.000 
+Harambe                                  0.000 
+Dan Walsh                                0.000 
+Olivia Van Dervort                       0.000 
+Nick James                               0.000 
+ChristopherDunn_JonnyAmon                0.000 
+Saad Bashir                              0.000 
+Andrew and Aleida                        0.000 
+Burger Madness and Cheddar Jack Chicken  0.000 
+Marc Hosecloth                           0.000 
+Alexander Hersov                         0.000 
+Turkey Avocado Sprouts and The Sicilian  0.000 
+AndrewAdams and JosephGomez              0.000 
+Jacob Stolt-Nielsen                      0.000 
+Dan Litche                               0.000 
+Jasmin Ouseph and Owen Hayes             0.000 
+
+ WinnersList 
+[Garet Williams and Habon Ali]
+
+
+
+
+Round 2:
+
+votesNeeded = 115.0
+numberVoters = 229.10869565217408
+Candidate                                Tally 
+
+Dalric Fields and Feinstein              0.000 
+sabrina Ciervo                           0.000 
+Rack 13                                  0.000 
+HotChick and ChickenMadness              0.000 
+Kamar Mack and Jessica Andino            127.848 
+John DeGioa                              0.000 
+Spongebob caveman                        0.000 
+Jack the Bulldog                         0.000 
+Bill Reber and Bill Cena                 0.000 
+Raven's dad(from the Bachelor)           0.000 
+Jeanne Bowers                            0.000 
+Joe Deccache                             0.000 
+Bharat Kaku                              0.000 
+Andrew Van Hoek and William Wrotniak     0.000 
+Olivia Torbert and Adam Potter           0.000 
+Anyone else and some other person        0.000 
+Hillary Clinton                          0.000 
+Garrett Williams                         0.000 
+Theo Symmonds                            0.000 
+Isaac Schley                             0.000 
+Lol                                      0.000 
+Gretchen McCarthy                        0.000 
+Hillary Clinton and Donald Trump         0.000 
+Chicken                                  0.000 
+Hot Chick Chicken Madness                0.000 
+Khristian Tate                           0.000 
+John Matthews and Nick Matz              92.826 
+Chicken madness                          0.000 
+K                                        0.000 
+Memes                                    0.000 
+Sahaj Sharda                             0.000 
+Andrew Cohen                             0.000 
+Andrew Johnson                           0.000 
+Garrett Williams and Halle Hagan         1.000 
+God                                      0.000 
+a                                        0.000 
+b                                        0.000 
+Suru                                     0.000 
+c                                        0.000 
+Joseph Gomez and Andrew Adams            0.000 
+Cosgrove                                 0.000 
+Tom Walker                               0.000 
+Andrew Adams and Joseph Gomez            0.000 
+Julia axtell                             0.000 
+Chicken Madness                          0.000 
+Write-In 3                               0.000 
+Write-In 2                               0.000 
+Rachid Telford                           0.000 
+Write-In 1                               0.000 
+Ethan  Knecht and Cayleigh Lewand        0.000 
+Mark Gori                                0.000 
+Nick Storozynski                         0.000 
+Matt Lettiero                            0.000 
+Erin bell                                0.000 
+Joshua Sirois and Corina Lobo            0.000 
+Chicken Madness and Hot Chick            0.000 
+The Flag Guys                            0.000 
+Griffin Edmonds and River Elms           0.000 
+Hot Chick                                0.000 
+Kanye                                    0.000 
+Hot chick and chicken madness            0.000 
+Finger-Blaster Guy on Harbin 3           0.000 
+Diane Sarna                              0.000 
+Joseph Daccache and Jalen Goldwire       0.000 
+HotChickChickenMadness                   0.000 
+Sarah Hirshorn and Julian                0.000 
+Noah Hawke                               0.000 
+Jarrod so I can return his Penny Board   0.000 
+Chris White                              0.000 
+Turkey Avocado Sprouts                   0.000 
+Federici                                 0.000 
+Alden Fletcher and Grady Willard         0.000 
+Hot Chick and Chicken Madness            0.152 
+Dat boi                                  0.000 
+Sim Allen                                0.000 
+Craig Peterson and Domino's              1.000 
+Ryan ackert and jack chicalo             0.000 
+Jenny Franke and Jack McGuire            4.978 
+Garret Williams and Halle Hagan          0.000 
+Burger Madness                           0.000 
+Kat                                      0.000 
+Joe Luther and Connor Rohan              0.000 
+Epi Quesadilla                           0.000 
+Ben Stern and Matt Jasko                 0.000 
+Will Davison and Aaron Rutter            1.000 
+Grant Draper                             0.000 
+@rackthirteen                            0.000 
+Mom and dad??                            0.000 
+Hillary Clinton and Tim Kaine            0.000 
+Harambe                                  0.000 
+Dan Walsh                                0.000 
+Olivia Van Dervort                       0.000 
+Nick James                               0.000 
+ChristopherDunn_JonnyAmon                0.152 
+Saad Bashir                              0.000 
+Andrew and Aleida                        0.000 
+Burger Madness and Cheddar Jack Chicken  0.000 
+Marc Hosecloth                           0.000 
+Alexander Hersov                         0.000 
+Turkey Avocado Sprouts and The Sicilian  0.000 
+AndrewAdams and JosephGomez              0.152 
+Jacob Stolt-Nielsen                      0.000 
+Dan Litche                               0.000 
+Jasmin Ouseph and Owen Hayes             0.000 
+
+ WinnersList 
+[Garet Williams and Habon Ali, Kamar Mack and Jessica Andino]
+
+
+
+
